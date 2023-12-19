@@ -1,0 +1,28 @@
+# Les primitives
+- https://threejs.org/manual/#en/primitives
+
+- BoxGeometry : https://threejs.org/docs/#api/en/geometries/BoxGeometry``
+- CircleGeometry : https://threejs.org/docs/#api/en/geometries/CircleGeometry
+- ConeGeometry : https://threejs.org/docs/#api/en/geometries/ConeGeometry
+- CylinderGeometry : https://threejs.org/docs/#api/en/geometries/CylinderGeometry
+- DodecahedronGeometry : https://threejs.org/docs/#api/en/geometries/DodecahedronGeometry
+- ExtrudeGeometry : https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry
+- IcosahedronGeometry : https://threejs.org/docs/#api/en/geometries/IcosahedronGeometry
+- LatheGeometry : https://threejs.org/docs/#api/en/geometries/LatheGeometry
+- OctahedronGeometry : https://threejs.org/docs/#api/en/geometries/OctahedronGeometry
+- ParametricGeometry : https://threejs.org/docs/#examples/en/geometries/ParametricGeometry
+- PlaneGeometry : https://threejs.org/docs/#api/en/geometries/PlaneGeometry
+- PolyhedronGeometry : https://threejs.org/docs/#api/en/geometries/PolyhedronGeometry
+- RingGeometry : https://threejs.org/docs/#api/en/geometries/RingGeometry
+- ShapeGeometry : https://threejs.org/docs/#api/en/geometries/ShapeGeometry
+- SphereGeometry : https://threejs.org/docs/#api/en/geometries/SphereGeometry
+- TetrahedronGeometry : https://threejs.org/docs/#api/en/geometries/TetrahedronGeometry
+- TextGeometry : https://threejs.org/docs/#examples/en/geometries/TextGeometry
+- DecalGeometry : https://threejs.org/docs/#examples/en/geometries/DecalGeometry
+- SDFGeometryGenerator : https://threejs.org/docs/#examples/en/geometries/SDFGeometryGenerator
+- ConvexGeometry : https://threejs.org/docs/#examples/en/geometries/ConvexGeometry
+- TorusGeometry : https://threejs.org/docs/#api/en/geometries/TorusGeometry
+- TorusKnotGeometry : https://threejs.org/docs/#api/en/geometries/TorusKnotGeometry
+- TubeGeometry : https://threejs.org/docs/#api/en/geometries/TubeGeometry
+- EdgesGeometry : https://threejs.org/docs/#api/en/geometries/EdgesGeometry
+- WireframeGeometry : https://threejs.org/docs/#api/en/geometries/WireframeGeometry
